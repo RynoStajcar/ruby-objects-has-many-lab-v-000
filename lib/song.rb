@@ -11,5 +11,6 @@ class Song
       self.artist.name
     else
       false
+    end
   end
 end
